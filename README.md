@@ -1,4 +1,4 @@
-# 🎯 Restful Booker API Testing
+# 🎯 Restful Booker API Testing:
 API testing project using Postman.
 
 1️⃣Step 1 — Add Postman Collection with Authentication Test
